@@ -10,11 +10,11 @@ function Home() {
         <Link href="/sobre">
             <a>Acessar página Sobre</a>
         </Link>
-    <br>
-    <Link href="/tempo">
+    <h4><Link href="/tempo">
             <a>Acessar acessar api tempo</a>
         </Link>
-    </div>
+    </div></h4>
+    
 }
 
 function Contador()
