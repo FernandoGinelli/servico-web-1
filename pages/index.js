@@ -12,7 +12,7 @@ function Home() {
             <a>Acessar página Sobre</a>
         </Link>
     <Link href="/tempo">
-            <h4><a>Acessar acessar api tempo</a></h4>
+            <a><h4>Acessar acessar api tempo</h4></a>
         </Link>
     </div>
     
